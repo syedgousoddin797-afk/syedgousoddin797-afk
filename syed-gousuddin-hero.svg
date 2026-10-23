@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="sg-title sg-desc">
+<title id="sg-title">Syed Gousuddin — Software Engineer | Python Full Stack Developer</title>
+<desc id="sg-desc">Burgundy editorial developer banner with fine technical grid, orbital rings, animated line and restrained rose glow.</desc>
+<defs>
+  <linearGradient id="sg-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10070C"/><stop offset=".58" stop-color="#190B12"/><stop offset="1" stop-color="#451126"/></linearGradient>
+  <linearGradient id="sg-rose" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#701A3D" stop-opacity=".05"/><stop offset=".48" stop-color="#C77B9B"/><stop offset="1" stop-color="#E5B5C7" stop-opacity=".05"/></linearGradient>
+  <radialGradient id="sg-glow"><stop stop-color="#701A3D" stop-opacity=".7"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></radialGradient>
+  <pattern id="sg-grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#E5B5C7" stroke-opacity=".075" stroke-width="1"/></pattern>
+  <filter id="sg-blur"><feGaussianBlur stdDeviation="18"/></filter>
+  <mask id="sg-fade"><rect width="1200" height="360" fill="url(#sg-mask-grad)"/></mask>
+  <linearGradient id="sg-mask-grad" x1="0" y1="0" x2="1" y2="0"><stop stop-color="white"/><stop offset=".8" stop-color="white" stop-opacity=".7"/><stop offset="1" stop-color="white" stop-opacity=".1"/></linearGradient>
+</defs>
+<rect width="1200" height="360" rx="20" fill="url(#sg-bg)"/>
+<rect width="1200" height="360" rx="20" fill="url(#sg-grid)"/>
+<ellipse cx="960" cy="155" rx="270" ry="155" fill="url(#sg-glow)" filter="url(#sg-blur)"/>
+<g fill="none" stroke="#C77B9B" stroke-opacity=".35">
+  <circle cx="930" cy="165" r="84"/><circle cx="930" cy="165" r="120" stroke-dasharray="2 10"/>
+  <ellipse cx="930" cy="165" rx="160" ry="56" transform="rotate(-28 930 165)"/>
+  <path d="M770 165H1090M930 5V325" stroke-opacity=".14"/>
+</g>
+<g fill="#E5B5C7">
+  <circle cx="930" cy="45" r="3"/><circle cx="1052" cy="165" r="3"/><circle cx="850" cy="215" r="2.5"/>
+</g>
+<path d="M0 286 C145 242 250 320 390 276 S625 245 760 278 S1020 305 1200 228" fill="none" stroke="url(#sg-rose)" stroke-width="2">
+  <animate attributeName="d" dur="12s" repeatCount="indefinite" values="M0 286 C145 242 250 320 390 276 S625 245 760 278 S1020 305 1200 228;M0 270 C145 310 250 245 390 288 S625 310 760 260 S1020 240 1200 252;M0 286 C145 242 250 320 390 276 S625 245 760 278 S1020 305 1200 228"/>
+</path>
+<path d="M68 211H475" stroke="#701A3D" stroke-width="4" stroke-linecap="round"/>
+<path d="M68 211H475" stroke="#E5B5C7" stroke-width="2" stroke-linecap="round" stroke-dasharray="70 340">
+  <animate attributeName="stroke-dashoffset" from="410" to="-70" dur="5s" repeatCount="indefinite"/>
+</path>
+<g font-family="Inter, Segoe UI, Arial, sans-serif">
+  <text x="68" y="62" fill="#C77B9B" font-size="14" letter-spacing="4">SOFTWARE • DATA • CREATIVE BUILDING</text>
+  <text x="64" y="145" fill="#F8F0F3" font-size="54" font-weight="700">Syed Gousuddin</text>
+  <text x="69" y="181" fill="#E5B5C7" font-size="21" font-weight="500">Software Engineer  |  Python Full Stack Developer</text>
+  <text x="69" y="250" fill="#F8F0F3" fill-opacity=".82" font-size="15">Python  /  Django  /  React.js  /  REST APIs  /  MySQL</text>
+  <text x="69" y="316" fill="#C77B9B" font-size="11" letter-spacing="3">DESIGN WITH INTENT. BUILD WITH CARE.</text>
+</g>
+<g font-family="monospace" fill="#E5B5C7" opacity=".75" font-size="13">
+  <text x="832" y="102">&lt;api /&gt;</text><text x="1012" y="238">{ code }</text><text x="1070" y="93">01</text>
+</g>
+</svg>
