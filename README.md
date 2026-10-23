@@ -1,26 +1,25 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/syed-gousuddin-hero-static.svg">
-    <img src="./assets/syed-gousuddin-hero.svg" alt="Syed Gousuddin — Software Engineer and Python Full Stack Developer" width="100%">
-  </picture>
+
+<img src="./assets/syed-gousuddin-hero.svg" alt="Syed Gousuddin — Software Engineer | Python Full Stack Developer" width="100%">
+
 </div>
 
 <br>
 
 <table>
   <tr>
-    <td width="190" align="center" valign="top">
-      <img src="https://github.com/syedgousoddin797-afk.png" width="150" alt="Syed Gousuddin GitHub avatar">
+    <td width="180" align="center" valign="top">
+      <img src="https://github.com/syedgousoddin797-afk.png" width="150" alt="Syed Gousuddin profile photo">
     </td>
     <td valign="top">
 
 ## About Me
 
-I'm a Computer Science and Engineering student/graduate focused on full-stack software development and applied AI. I enjoy taking projects from requirements and data modelling through API development, interface integration, debugging, and deployment.
+I'm a Computer Science and Engineering professional focused on building practical web applications and learning modern full-stack development. I enjoy turning ideas into working products—from designing interfaces and APIs to connecting databases and debugging end-to-end workflows.
 
-My work includes a civic issue reporting platform and an AI-powered MRI image classification project. I'm currently training in Python Full Stack Development at Pentagon Space.
+Currently developing my skills in **Python Full Stack Development** through hands-on training at **Pentagon Space**.
 
-**Seeking:** Entry-level Software Engineer / Python Full Stack Developer opportunities.
+**Interested in:** Python Developer · Django Developer · Full-Stack Developer roles.
 
     </td>
   </tr>
@@ -29,29 +28,63 @@ My work includes a civic issue reporting platform and an AI-powered MRI image cl
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-syedgousoddin797--afk-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12)](https://github.com/syedgousoddin797-afk)
-[![Email](https://img.shields.io/badge/Email-Contact-C77B9B?style=for-the-badge&logo=gmail&logoColor=F8F0F3&labelColor=190B12)](mailto:syedgousoddin797@gmail.com)
+[![Python](https://img.shields.io/badge/Python-Developer-451126?style=for-the-badge&logo=python&logoColor=F8F0F3&labelColor=10070C)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-Full--Stack-701A3D?style=for-the-badge&logo=django&logoColor=F8F0F3&labelColor=190B12)](https://www.djangoproject.com/)
 
 </div>
 
 ---
 
-## Experience
+## 🎓 Education
 
-**Python Full Stack Trainee — Pentagon Space**  
-*Bengaluru, India · 2026–Present*
-
-- Hands-on training in Python Full Stack Development, including Django, React.js, REST APIs, and MySQL database design.
-- Building and debugging full-stack projects while practising Git/GitHub version control and maintainable coding practices.
-
-## Education
-
-**Bachelor of Engineering (B.E.), Computer Science and Engineering**  
+**B.E. — Computer Science & Engineering**  
 Shetty Institute of Technology, Kalaburagi · Visvesvaraya Technological University (VTU)  
-**CGPA:** 7.6 · Expected 2026
+**CGPA:** 7.6 · 2026
 
-**PUC** — Diamond Independent PU College, Bhalki, Bidar · 73.83% · 2022
+**PUC** — Diamond Independent PU College, Bhalki, Bidar · **73.83%** · 2022
 
-## Certifications
+## 💼 Training
+
+**Python Full Stack Development — Pentagon Space**  
+Bengaluru, India · 2026
+
+- Python programming, object-oriented programming, SQL and relational database fundamentals.
+- Web development with HTML, CSS, JavaScript, Django templates and Bootstrap.
+- Full-stack project practice, API integration, Git/GitHub and deployment fundamentals.
+
+## 🧰 Technical Skills
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, JavaScript, SQL, HTML, CSS |
+| **Backend** | Django, Django REST Framework |
+| **Frontend** | React.js, Bootstrap |
+| **Database** | MySQL, PostgreSQL |
+| **Data & visualization** | Chart.js |
+| **Maps & integrations** | Leaflet.js, REST APIs |
+| **Tools** | Git, GitHub, VS Code, Postman |
+| **Core concepts** | OOP, CRUD, database design, debugging, responsive UI |
+
+## 🚀 Selected Projects
+
+### CivicConnect — Civic Issue Reporting System
+A full-stack platform for citizens to report civic issues and track progress, with role-based workflows and an administrative dashboard.
+
+**Tech:** Django, Python, PostgreSQL, HTML, CSS, JavaScript, Bootstrap, Leaflet.js, Chart.js
+
+### BrainScan — MRI Image Classification
+An AI-assisted image classification project for MRI scans, with a focus on image preprocessing and model-based predictions.
+
+**Tech:** Python, deep learning / CNN workflow
+
+### Leave Management System
+A web application concept for submitting, reviewing and managing employee leave requests with role-based access.
+
+**Tech:** Python, Django, SQL, HTML, CSS, Bootstrap
+
+> Project links are not included yet because the exact public repository URLs have not been verified. Add links once the corresponding repositories are available.
+
+## 📜 Certifications
 
 - Privacy and Security in Online Social Media — NPTEL
 - K-Tech CoE for Cyber Security
@@ -59,72 +92,27 @@ Shetty Institute of Technology, Kalaburagi · Visvesvaraya Technological Univers
 
 ---
 
-## Selected Projects
-
-<table>
-  <thead>
-    <tr><th>Project</th><th>Overview</th><th>Technology</th></tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>CivicConnect</strong></td>
-      <td>Full-stack civic issue reporting platform with citizen, municipal staff, and admin roles; photo uploads, status tracking, map-based issue visualization, and analytics dashboard.</td>
-      <td>Python, Django REST Framework, React.js, MySQL, Google Maps API, Chart.js, Firebase, Cloudinary</td>
-    </tr>
-    <tr>
-      <td><strong>BrainScan</strong></td>
-      <td>AI-powered MRI image classification project using a ResNet18 CNN trained on a Kaggle dataset. Resume reports 3,000+ MRI images and 92%+ classification accuracy; Grad-CAM is used to visualize regions influencing predictions.</td>
-      <td>Python, CNN, ResNet18, Grad-CAM, image preprocessing</td>
-    </tr>
-    <tr>
-      <td><strong>Leave Management System</strong></td>
-      <td>Included in a prior resume version: a Django/MySQL leave workflow with role-based access for Admin, Manager, and Employee, and REST API endpoints. Add only if this project is part of your current portfolio.</td>
-      <td>Django, Python, MySQL, Bootstrap, REST APIs</td>
-    </tr>
-  </tbody>
-</table>
-
-> Project repository and live-demo URLs were not present in the supplied resume text, so they are intentionally not guessed. Add links to the project names after confirming the correct repository URLs.
-
----
-
-## Technical Skills
-
-| Category | Verified resume technologies and concepts |
-|---|---|
-| **Languages** | Python, JavaScript, SQL, HTML, CSS |
-| **Frameworks** | Django, Django REST Framework, React.js |
-| **Database** | MySQL |
-| **APIs & integration** | REST APIs, Google Maps API |
-| **Tools & platforms** | Git, GitHub, VS Code, Firebase, Cloudinary |
-| **Data & visualization** | Chart.js |
-| **Core concepts** | OOP, SDLC, requirements analysis, debugging, troubleshooting, problem solving |
-| **Applied AI project** | CNN, ResNet18, MRI image classification, Grad-CAM |
-
----
-
-## GitHub Contributions
+## 📈 GitHub Contributions
 
 <div align="center">
   <img src="https://ghchart.rshah.org/701A3D/syedgousoddin797-afk" alt="GitHub contribution graph for syedgousoddin797-afk" width="100%">
-  <br>
-  <sub>Contribution graph is loaded from a third-party service and may be unavailable temporarily.</sub>
 </div>
 
-## GitHub Overview
+<sub>Contribution data is provided by a third-party service and may occasionally be unavailable.</sub>
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syedgousoddin797-afk&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B" alt="GitHub overview statistics for syedgousoddin797-afk">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedgousoddin797-afk&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="Most used languages reported by GitHub Stats service">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syedgousoddin797-afk&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B" alt="GitHub overview statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedgousoddin797-afk&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="Most used programming languages">
 </div>
 
-<sub>These cards are generated by a third-party service. They can be rate-limited or unavailable; no contribution counts or language percentages are manually claimed here.</sub>
+<sub>Statistics are generated by an external service, are not manually edited, and may be rate-limited.</sub>
 
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/syed-gousuddin-footer-static.svg">
-    <img src="./assets/syed-gousuddin-footer.svg" alt="Thanks for visiting — let's build something meaningful." width="100%">
-  </picture>
+  <img src="./assets/syed-gousuddin-footer.svg" alt="Thanks for visiting — let's build something meaningful." width="100%">
+  <br>
+  <sub>Built with curiosity, consistency, and a little burgundy.</sub>
 </div>
