@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/syed-gousuddin-hero.svg" alt="Syed Gousuddin — Software Engineer | Python Full Stack Developer" width="100%">
+<img src="./syed-gousuddin-hero.svg" alt="Syed Gousuddin — Software Engineer | Python Full Stack Developer" width="100%">
 
 </div>
 
@@ -112,7 +112,7 @@ A web application concept for submitting, reviewing and managing employee leave 
 ---
 
 <div align="center">
-  <img src="./assets/syed-gousuddin-footer.svg" alt="Thanks for visiting — let's build something meaningful." width="100%">
+  <img src="./syed-gousuddin-footer.svg" alt="Thanks for visiting — let's build something meaningful." width="100%">
   <br>
   <sub>Built with curiosity, consistency, and a little burgundy.</sub>
 </div>
